@@ -1,0 +1,1 @@
+fn f<T>(x:T){f(Some(x));}fn main(){f(0);}

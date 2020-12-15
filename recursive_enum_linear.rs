@@ -1,0 +1,1 @@
+enum A<T>{B,C(T,Box<A<A<T>>>)}fn main(){A::<i32>::B;}
